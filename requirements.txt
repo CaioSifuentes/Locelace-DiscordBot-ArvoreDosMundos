@@ -1,0 +1,7 @@
+pycord
+discord
+discord.ext.commands
+json
+os
+discord.ext
+random
